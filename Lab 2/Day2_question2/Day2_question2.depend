@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733260556 source:e:\iti\oop\labs\day2_question2\main.cpp
+	<iostream>
+	<exception>
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
