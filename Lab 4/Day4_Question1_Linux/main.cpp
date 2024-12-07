@@ -93,19 +93,6 @@ public:
     }
 };
 
-// Example placeholder drawing functions
-/*void line(int x1, int y1, int x2, int y2) {
-    cout << "Drawing line from (" << x1 << "," << y1 << ") to (" << x2 << "," << y2 << ")" << endl;
-}
-
-void rectangle(int x1, int y1, int x2, int y2) {
-    cout << "Drawing rectangle from (" << x1 << "," << y1 << ") to (" << x2 << "," << y2 << ")" << endl;
-}
-
-void circle(int x, int y, int radius) {
-    cout << "Drawing circle at (" << x << "," << y << ") with radius " << radius << endl;
-}*/
-
 int main() {
     int gd = DETECT, gm;
     initgraph(&gd, &gm, "");
